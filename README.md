@@ -28,7 +28,8 @@ Giving users a fast and easy way to track their money is important, but allowing
 ## Github link:
 https://github.com/FaranakSabet/PWA
 
-##  Deployed link:https://my-pwa-2020.herokuapp.com/
+##  Deployed link:
+https://my-pwa-2020.herokuapp.com/
 
 
 ![PWA](https://user-images.githubusercontent.com/65681350/97953479-778bac00-1d55-11eb-9bbb-a993e4216513.PNG)
